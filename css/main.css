@@ -23,7 +23,7 @@ a {
 /********** HEADER **********/
 header {
 	background-color: #c8bdbd;
-	background-image: url("../img/image-hero-edits.jpg");
+	background-image: url("../img/image-hero.jpg");
 	background-size: cover;
 	color: #f4f1f0;
 	padding: 0;
@@ -31,8 +31,7 @@ header {
 
 header h1 {
 	clear: both;
-	font-family: 'Alex Brush', cursive;
-	font-size: 14em;
+	font-size: 12em;
 	font-weight: 100;
 	margin: auto;
 	padding: 10% 30%;
